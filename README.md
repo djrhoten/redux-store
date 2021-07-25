@@ -6,7 +6,7 @@ Refactored e-commerce platform using global state React's Context API to Redux.
 An e-commerce website which allows users to login and purchase items, even giving them an opportunity to view their order history.
 
 
-## Gif Walkthrough
+## Walkthrough
 ![ScreenShot](client/public/redux.gif)
 
 
@@ -20,7 +20,7 @@ An e-commerce website which allows users to login and purchase items, even givin
 
 
 ## Technologies Used
-<p><a href="https://nodejs.org/">Node.js</a></p>
+<p><a href="https://nodejs.org/">Node.js</a></p>![Node Logo](assets/node.png)
 <p><a href="https://reactjs.org/">React.js</a></p>
 <p><a href="https://www.mongodb.com/">MongoDB</a></p>
 <p><a href="https://redux.js.org/">Redux</a></p>
