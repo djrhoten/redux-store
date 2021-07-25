@@ -3,6 +3,7 @@
 
 ## Description
 ![badge](https://img.shields.io/badge/license-MIT-blue)
+
 An e-commerce website which allows users to login and purchase items, even giving them an opportunity to view their order history.
 
 
