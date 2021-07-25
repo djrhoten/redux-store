@@ -11,20 +11,19 @@ An e-commerce website which allows users to login and purchase items, even givin
 
 
 ## Usage
-- This e-commerce website has products sorted by categories.
-- Users can add, update quantity and delete items in cart.
-- To purchase items in cart, users must sign up and login.
+- Products can be filtered by type.
+- Shoppers can eaily update their cart quantities.
+- In order to make a purchase, shoppers must sign up and login.
 - Payments are handled by Stripe.
-- Once user pays, it will redirect them to the success page.
-- All the items purchased will be saved in the history.
+- Once payment is made, the shopper will be redireced to the success page.
+- All purcahsed items can be viewed in the shoppers history.
 
 
 ## Technologies Used
-<p><a href="https://nodejs.org/">Node.js</a> ![Node Logo](assets/node.png)</p>
-<p><a href="https://reactjs.org/">React.js</a></p>
-<p><a href="https://www.mongodb.com/">MongoDB</a></p>
-<p><a href="https://redux.js.org/">Redux</a></p>
-
+![Node](https://img.shields.io/badge/-Node-brightgreen)
+![React](https://img.shields.io/badge/-React-blue)
+![Redux](https://img.shields.io/badge/-Redux-blueviolet)
+![Mongo DB](https://img.shields.io/badge/-MongoDB-green)
 
 ## Contributions
 Made by DJ Rhoten
